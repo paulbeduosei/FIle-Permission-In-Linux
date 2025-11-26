@@ -1,2 +1,2 @@
 # FIle-Permission-In-Linux
-The research team at my organization needed to update the permissions for certain files and directories in the project’s directory. The current permissions didn’t match the level of access required, so I checked and updated them to improve system security
+The research team at my organization needed to update the permissions for certain files and directories in the project’s directory. The current permissions didn’t match the level of access required, so I checked and updated them to improve system security. I used ls -la to check permissions and “chmod” to update them. These changes ensured that files and directories in the projects folder had the correct level of access according to the organization’s requirements.
